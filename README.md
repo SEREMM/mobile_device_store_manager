@@ -24,6 +24,7 @@ Explore Operations: Follow intuitive prompts to add new phone data, modify exist
 
 ## Get Involved! 🤝
 Contributions are highly valued! If you're excited to enhance this project, fork the repository and submit a pull request. Don't hesitate to report any issues here.
+[Code](https://github.com/SEREMM/mobile_device_store_manager/blob/main/data_looker_logger/_do_not_change_/_do_not_change_/consultas_y_modificaciones_data_productos_y_equipos.py)
 
 ## Reach Out! 📬
 Need assistance or want to connect?
